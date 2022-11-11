@@ -1,0 +1,26 @@
+{
+	"name": "dumdb",
+	"version": "1.0.0",
+	"description": "��#\u0000 \u0000d\u0000u\u0000m\u0000d\u0000b\u0000\r\u0000 \u0000",
+	"main": "dist/main.js",
+	"type": "module",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/TheDummi/dumdb.git"
+	},
+	"keywords": [
+		"Database"
+	],
+	"author": "Dummi",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/TheDummi/dumdb/issues"
+	},
+	"homepage": "https://github.com/TheDummi/dumdb#readme",
+	"devDependencies": {
+		"@types/node": "^18.11.9"
+	}
+}
